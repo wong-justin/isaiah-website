@@ -1,0 +1,25 @@
+{
+  "name": "isaiah_website",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wong-justin/isaiah-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wong-justin/isaiah-website/issues"
+  },
+  "homepage": "https://github.com/wong-justin/isaiah-website#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "postcss-cli": "^10.1.0"
+  }
+}
