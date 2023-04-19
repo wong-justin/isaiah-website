@@ -5,6 +5,6 @@ description: Some photos uploaded from my phone
 ---
 ![](/img/img_20230327_180810_01.jpg "Banana")
 
-![](/img/u1f349_u1f4a9.png "Spongebob")
+![](/img/u1f349_u1f4a9.png "Watermelon poo emoji combo")
 
-![](/img/media_fyjirb-xeaybull.jpg "Watermelon poo")
+![](/img/media_fyjirb-xeaybull.jpg "Spongebob")
