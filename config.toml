@@ -1,15 +1,20 @@
-baseURL = "https://isaiah-test.netlify.app/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "ODON"
-
+title = "My New Hugo Site"
 theme = "sam"
-[params]
-	homepage = "main"
 
 [[params.mainMenu]]
-	link = "gallery"
-	text = "gallery"
+    link = "posts"
+    text = "posts"
 
 [[params.mainMenu]]
-	link = "about"
-	text = "about"
+    link = "gallery"
+    text = "gallery"
+
+[[params.mainMenu]]
+    link = "portfolio"
+    text = "portfolio"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "who is sam?"
